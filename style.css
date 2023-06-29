@@ -1,0 +1,102 @@
+.cabecalho-rodape {
+    background-color: #91E674;
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
+
+.titulo {
+    font-size: 64px;
+    text-align: center;
+    padding: 60px 0 20px 0;
+}
+
+.folhas {
+    width: 100%;
+}
+
+.msg-final {
+    font-size: 20px;
+    text-align: center;
+    padding: 90px 0 60px 0;
+}
+
+.frases-e-cartazes {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.cartaz {
+    width: 50%;
+    padding: 50px 25px 50px 150px;
+}
+
+.frases {
+    text-align: center;
+    font-size: 20px;
+    padding: 150px 150px 150px 25px;
+}
+
+.frases-2 {
+    text-align: center;
+    font-size: 20px;
+    padding: 125px 25px 50px 150px;
+}
+
+.frases-3 {
+    text-align: center;
+    font-size: 20px;
+    padding: 50px 25px 75px 150px;
+}
+
+.projetos-na-historia {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.botoes-d {
+    background-color: #91E674;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 30px 50px 30px 100px;
+}
+
+.botoes-e {
+    background-color: #91E674;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 30px 100px 30px 50px;
+}
+
+.botoes-d:hover {
+    background-color: #b7f3a3;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 30px 50px 30px 100px;
+}
+
+.botoes-e:hover {
+    background-color: #b7f3a3;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 30px 100px 30px 50px;
+}
